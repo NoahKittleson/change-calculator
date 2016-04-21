@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="ChangeMakerTest" tests="6" skipped="0" failures="0" errors="0" timestamp="2016-04-21T17:03:10" hostname="epicodus-93.local" time="1.344">
+  <properties/>
+  <testcase name="TotalChange_CorrectNickelChange_Calculated" classname="ChangeMakerTest" time="0.001"/>
+  <testcase name="TotalChange_CorrectDimeChange_Calculated" classname="ChangeMakerTest" time="0.0"/>
+  <testcase name="TotalChange_GiveInputReceiveOutput_AnyOutput" classname="ChangeMakerTest" time="0.0"/>
+  <testcase name="TotalChange_CorrectPenniesChange_Calculated" classname="ChangeMakerTest" time="0.0"/>
+  <testcase name="TotalChange_CorrectQuarterChange_Calculated" classname="ChangeMakerTest" time="0.0"/>
+  <testcase name="TotalChange_MAXCASH_Calculated" classname="ChangeMakerTest" time="1.342"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
